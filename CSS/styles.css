@@ -2,7 +2,7 @@ body {
   background-color: blanchedalmond;
 }
 
-ul.flashy {
+.flashy {
   color: red;
   font-style: italic;
 }
@@ -10,4 +10,5 @@ ul.flashy {
 h2.best {
   font-weight: bold;
   color: blue;
+  font-family: Times New Roman;
 }

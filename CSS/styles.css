@@ -1,0 +1,13 @@
+body {
+  background-color: blanchedalmond;
+}
+
+ul.flashy {
+  color: red;
+  font-style: italic;
+}
+
+h2.best {
+  font-weight: bold;
+  color: blue;
+}

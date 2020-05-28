@@ -10,7 +10,8 @@ _This was an exercise we performed at Epicodus to practice using links to pictur
 
 ## Setup/Installation Requirements
 
-* _Go to github repository and download zip file_
+* _Go to github repository and download zip file 
+* _https://github.com/tayphill13/Cupcake-Shop.git_
 * _Unzip file to a specified location_
 * _Open the html page in a preferred web browser_
 
